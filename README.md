@@ -27,7 +27,7 @@ gcc mygrep.c -o mygrep
 - Supports pipes (|) between commands
 - Handles I/O redirections:
   - < for input
-  - > for output
+  - \> for output
   - !> for stderr
 - Background execution with &
 
